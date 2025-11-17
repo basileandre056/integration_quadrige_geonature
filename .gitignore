@@ -2,6 +2,10 @@
 # 🐍 BACKEND PYTHON
 # =========================================
 
+#memory et output data
+backend/memory/
+backend/output_data/
+
 # Environnement virtuel Python
 backend/venv/
 venv/
