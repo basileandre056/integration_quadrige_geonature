@@ -1,0 +1,72 @@
+# =========================================
+# 🐍 BACKEND PYTHON
+# =========================================
+
+# Environnement virtuel Python
+backend/venv/
+venv/
+.env/
+.venv/
+
+# pyenv
+.python-version
+
+# Caches Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.pdb
+
+# Compiled files
+*.egg-info/
+.eggs/
+*.egg
+*.manifest
+*.spec
+
+# Fichiers temporaire d'exécution
+*.log
+*.tmp
+*.sqlite
+*.db
+
+# Outils type Jupyter
+.ipynb_checkpoints/
+
+# Fichiers générés par ton backend
+backend/memory/
+backend/output_data/
+backend/outputs/
+output_data/
+memory/
+
+# =========================================
+# 🅰️ FRONTEND ANGULAR
+# =========================================
+
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+
+# Build Angular
+dist/
+out-tsc/
+.angular/
+.angular/cache/
+
+# IDE Angular
+.vscode/
+.idea/
+
+# =========================================
+# 📦 GIT / SYSTEM
+# =========================================
+.DS_Store
+Thumbs.db
+*.swp
+*~
