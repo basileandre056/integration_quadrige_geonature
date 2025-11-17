@@ -1,0 +1,16 @@
+Étapes GeoNature à faire plus tard (PAS maintenant)
+
+Lorsque tu intègreras dans GeoNature :
+
+renommer app.module.ts → gnModule.module.ts
+
+importer GN2CommonModule
+
+supprimer node_modules (celui de GeoNature sera utilisé)
+
+déplacer les assets dans frontend/assets/<module_code>/
+
+adapter les imports vers @librairies et @geonature_common
+
+Mais pour l’instant en local : inutile.
+On développe ton module Angular normalement pour tester ton backend.
